@@ -43,8 +43,7 @@ Management needed a single, up-to-date view of sales performance across regions,
 
 <div align="center">
 
-<!-- [ADD: ![Dashboard Overview](screenshots/elaraby-dashboard-overview.png) — use a version with sensitive revenue figures blurred/cropped if needed] -->
-<i>Screenshot: full one-page sales &amp; profitability overview</i>
+![Dashboard Overview](screenshots/elaraby-dashboard-overview.png)
 
 </div>
 
