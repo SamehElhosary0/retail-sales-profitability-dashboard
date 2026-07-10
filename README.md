@@ -67,6 +67,6 @@ This repository showcases the dashboard design, structure, and DAX/Power Query a
 <div align="center">
 
 **Sameh El-Hosary** | Data Analyst &amp; Business Intelligence Analyst
-[LinkedIn](https://linkedin.com/in/sameh-el-hosary-) · [GitHub](https://github.com/SamehElhosary0) · [Email](https:/sameh.sabry656@gmail.com)
+[LinkedIn](https://linkedin.com/in/sameh-el-hosary-) · [GitHub](https://github.com/SamehElhosary0) · [Email](mailto:sameh.sabry656@gmail.com)
 
 </div>
