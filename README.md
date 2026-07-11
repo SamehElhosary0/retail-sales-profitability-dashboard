@@ -47,6 +47,11 @@ Management needed a single, up-to-date view of sales performance across regions,
 
 </div>
 
+## 📑 Full Presentation
+
+📎 [View the full project presentation](
+
+
 ## 🔍 Approach
 
 1. **Data Preparation** — Cleaned and transformed raw sales transaction data using Power Query, structuring it into a star-schema-friendly model (fact table for sales, dimension tables for product, store, region, and date).
