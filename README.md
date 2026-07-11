@@ -49,7 +49,7 @@ Management needed a single, up-to-date view of sales performance across regions,
 
 ## 📑 Full Presentation
 
-📎 [View the full project presentation](
+📎 [View the full project presentation](ELARABY_Dashboard_Presentation.pptx)
 
 
 ## 🔍 Approach
